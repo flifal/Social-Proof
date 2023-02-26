@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Frontend Mentor - Fylo landing page with two column layout solution
 
 This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+=======
+# Frontend Mentor - Social proof section solution
+
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+>>>>>>> refs/remotes/origin/main
 
 ## Table of contents
 
@@ -24,8 +30,12 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 Users should be able to:
 
+<<<<<<< HEAD
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
+=======
+- View the optimal layout for the section depending on their device's screen size
+>>>>>>> refs/remotes/origin/main
 
 ### Screenshot
 
